@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "9780743273565"
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "9780061120084"
+    },
+    {
+        "id": 3,
+        "name": "1984",
+        "author": "George Orwell",
+        "isbn": "9780451524935"
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "9780141439518"
+    },
+    {
+        "id": 5,
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": "9780316769488"
+    },
+    {
+        "id": 6,
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "isbn": "9780345339683"
+    },
+    {
+        "id": 7,
+        "name": "Moby-Dick",
+        "author": "Herman Melville",
+        "isbn": "9780142437247"
+    },
+    {
+        "id": 8,
+        "name": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "isbn": "9780141441146"
+    },
+    {
+        "id": 9,
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "isbn": "9780618640157"
+    },
+    {
+        "id": 10,
+        "name": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn": "9780061122415"
+    },
+    {
+        "id": 11,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "isbn": "9780590353403"
+    },
+    {
+        "id": 12,
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "isbn": "9780060850524"
+    },
+    {
+        "id": 13,
+        "name": "The Odyssey",
+        "author": "Homer",
+        "isbn": "9780140268867"
+    },
+    {
+        "id": 14,
+        "name": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "isbn": "9780141439570"
+    },
+    {
+        "id": 15,
+        "name": "The Great Expectations",
+        "author": "Charles Dickens",
+        "isbn": "9780141439563"
+    },
+    {
+        "id": 16,
+        "name": "The Chronicles of Narnia",
+        "author": "C.S. Lewis",
+        "isbn": "9780060764890"
+    },
+    {
+        "id": 17,
+        "name": "Animal Farm",
+        "author": "George Orwell",
+        "isbn": "9780451526342"
+    },
+    {
+        "id": 18,
+        "name": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "isbn": "9781451673319"
+    },
+    {
+        "id": 19,
+        "name": "The Book Thief",
+        "author": "Markus Zusak",
+        "isbn": "9780375831003"
+    },
+    {
+        "id": 20,
+        "name": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "isbn": "9780141439556"
+    },
+    {
+        "id": 21,
+        "name": "Harry Potter and the Goblet of Fire",
+        "author": "J. K. Rowling",
+        "isbn": "415646843133"
+    },
+    {
+        "name": "harry potter and the philosopher's stone",
+        "author": "j. k. rowling",
+        "isbn": "16841384984",
+        "id": 22
+    },
+    {
+        "name": "Harry Potter and the Chamber",
+        "author": "j. k. rowling",
+        "isbn": "84568482",
+        "id": 23
+    }
+]

@@ -1,0 +1,44 @@
+{
+  "name": "rabee-albhaisi-typescript",
+  "version": "1.0.0",
+  "description": "My third project as backend",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSD-0423/Rabee-AlBhaisi-typescript.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "typescript",
+    "express",
+    "joi",
+    "Rabee",
+    "rabee",
+    "project"
+  ],
+  "author": "Rabee AlBhaisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSD-0423/Rabee-AlBhaisi-typescript/issues"
+  },
+  "homepage": "https://github.com/JSD-0423/Rabee-AlBhaisi-typescript#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "joi": "^17.9.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/preset-env": "^7.22.4",
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.2.5",
+    "@types/nodemon": "^1.19.2",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
